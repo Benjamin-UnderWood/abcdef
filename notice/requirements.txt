@@ -1,0 +1,7 @@
+django==3.2.5
+channels
+celery
+django-celery-beat
+djangorestframework
+mysqlclient
+
